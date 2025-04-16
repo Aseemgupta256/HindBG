@@ -32,7 +32,7 @@ HindBG delivers near-perfect background removal using a sophisticated pipeline t
 ## EXE
 
 <p>You can download the exe file from the <code>dist</code> folder:</p>
-(File is currently not uploaded, but you can use this via intructions mentioned below.)
+(File is currently not uploaded, but you can use this via instructions mentioned below.)
 <a href="dist/app.exe" download style="
     background-color: #007BFF;
     color: white;
